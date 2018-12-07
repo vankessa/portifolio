@@ -1,17 +1,20 @@
 *  {
     background-color: antiquewhite;
     padding: 1px;
-    margin: 1px;
+    margin: 5px;
     overflow: auto;
 }
 h1 {
-    color: brown;
+    color:lightsalmon;
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-h2  {
-    color: brown;
+h3 {
+    color:lightsalmon;
     font-style: oblique;
+}
+h2{
+    color:lightpink;
 }
 .nav > nav > ul > li{
     box-shadow: 2px 2px 5px inset burlywood;
@@ -20,22 +23,32 @@ h2  {
    float:right;
    
 }
-.nav>nav>ul>li>a:link  {
+.nav>nav>ul>li>a{
     color: brown;
-    text-decoration-style:none;
+    text-decoration:none;
     
 }
 .nav>nav>ul>li>a:hover  {
     color: lightslategray;
 }
-.uj {
-    background-image:url("images/va.jpg")
+span{
+    width:100%;
 }
 .nav>nav>ul>li>a:visited  {
     color: lightsalmon;
     text-decoration-style:none;
     
 }
+.projects>ul>li>a{
+    text-decoration: none;
+    display: inline-block;
+}
+.projects>ul>li>a:visited{
+    text-decoration: none;
+    color: lightsalmon;
+}
+
+
 
 
 
