@@ -1,5 +1,20 @@
 *  {
-    background-color: blanchedalmond;
-    padding: 10px;
-    margin: 10px;
+    background-color: antiquewhite;
+    padding: 1px;
+    margin: 1px;
+    overflow: auto;
+}
+h1  {
+    color: brown;
+    text-align: center;
+}
+.nav > nav > ul > li{
+    box-shadow: 2px 2px 5px inset burlywood;
+    display: inline-block;
+    margin: 20px;
+   float: right;
+}
+.nav>nav>ul>li>a:link  {
+    color: brown;
+    text-decoration-style: none;
 }
