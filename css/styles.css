@@ -2,7 +2,7 @@
     background-color: antiquewhite;
     padding: 1px;
     margin: 1px;
-    overflow: hidden;
+    overflow: auto;
 }
 h1 {
     color: brown;
@@ -22,12 +22,21 @@ h2  {
 }
 .nav>nav>ul>li>a:link  {
     color: brown;
-    text-decoration-style: none;
+    text-decoration-style:none;
     
 }
 .nav>nav>ul>li>a:hover  {
     color: lightslategray;
 }
+.uj {
+    background-image: url("images/va.jpg")
+}
+.nav>nav>ul>li>a:visited  {
+    color: lightsalmon;
+    text-decoration-style:none;
+    
+}
+
 
 
 
