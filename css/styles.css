@@ -2,19 +2,33 @@
     background-color: antiquewhite;
     padding: 1px;
     margin: 1px;
-    overflow: auto;
+    overflow: hidden;
 }
-h1  {
+h1 {
     color: brown;
     text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2  {
+    color: brown;
+    font-style: oblique;
 }
 .nav > nav > ul > li{
     box-shadow: 2px 2px 5px inset burlywood;
     display: inline-block;
     margin: 20px;
-   float: right;
+   float:right;
+   
 }
 .nav>nav>ul>li>a:link  {
     color: brown;
     text-decoration-style: none;
+    
 }
+.nav>nav>ul>li>a:hover  {
+    color: lightslategray;
+}
+
+
+
+
