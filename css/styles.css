@@ -29,7 +29,7 @@ h2  {
     color: lightslategray;
 }
 .uj {
-    background-image: url("images/va.jpg")
+    background-image:url("images/va.jpg")
 }
 .nav>nav>ul>li>a:visited  {
     color: lightsalmon;
