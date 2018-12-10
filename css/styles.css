@@ -21,7 +21,7 @@ h1 {
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-#str,em {
+#str,#i,#m,#s {
     color: goldenrod;
 }
 h3 {
@@ -71,21 +71,32 @@ main {
 .pro{
     display: flex;
 }
-#1,#2,#3,#4,#contact {
+#1,#2,#3,#4{
     padding: 40px;
     
 }
-.pro > #1,#2,#3,#4 > a:hover  {
-    color: gray;
+.pro > a {
+    text-decoration: none;
+    color:skyblue;
+    box-shadow: 2px 2px 4px inset goldenrod;
     
 }
-.join  {
-    display: flex;
-}
-.pro,#contact  {
-    padding: 20px;
-}
 
+
+footer  {
+    background-color:goldenrod;
+}
+h3  {
+    border-radius: 90%;
+    background-color: lightblue;
+}
+#contact > a{
+    text-decoration: none;
+    color: goldenrod;
+}
+i{
+    color: skyblue;
+}
 
 
 
