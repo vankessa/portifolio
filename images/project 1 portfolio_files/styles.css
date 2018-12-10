@@ -83,8 +83,8 @@ main {
 }
 
 
-footer {
-    text-align: center;
+#contact {
+    background-color:goldenrod;
 }
 h3  {
     border-radius: 90%;
@@ -93,10 +93,10 @@ h3  {
 }
 #contact > a{
     text-decoration: none;
-    color:goldenrod;
+    color: goldenrod;
 }
 i{
-    color: greenyellow;
+    color: skyblue;
 }
 #contact > a:visited {
     color: skyblue;
