@@ -1,20 +1,35 @@
 *  {
-    background-color: antiquewhite;
+    background-color:lightslategray;
     padding: 1px;
     margin: 5px;
     overflow: auto;
 }
+header  {
+    display: flex;
+}
+.div1,.div2,.div4 {
+    padding: 20px;
+}
+.div3  {
+    text-align: center;
+}
+img  {
+    border-radius: 50%;
+}
 h1 {
-    color:lightsalmon;
+    color:lightblue;
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+#str,em {
+    color: goldenrod;
+}
 h3 {
-    color:lightsalmon;
+    color:goldenrod;
     font-style: oblique;
 }
 h2{
-    color:lightpink;
+    color:lightblue;
 }
 .nav > nav > ul > li{
     box-shadow: 2px 2px 5px inset burlywood;
@@ -24,7 +39,7 @@ h2{
    
 }
 .nav>nav>ul>li>a{
-    color: brown;
+    color:goldenrod;
     text-decoration:none;
     
 }
@@ -35,7 +50,7 @@ span{
     width:100%;
 }
 .nav>nav>ul>li>a:visited  {
-    color: lightsalmon;
+    color:goldenrod;
     text-decoration-style:none;
     
 }
@@ -45,8 +60,32 @@ span{
 }
 .projects>ul>li>a:visited{
     text-decoration: none;
-    color: lightsalmon;
+    color:goldenrod;
 }
+main {
+    display: flex;
+}
+.edu,.cur,.sk,.hob,.job,.my  {
+    padding:12px;
+}
+.pro{
+    display: flex;
+}
+#1,#2,#3,#4,#contact {
+    padding: 40px;
+    
+}
+.pro > #1,#2,#3,#4 > a:hover  {
+    color: gray;
+    
+}
+.join  {
+    display: flex;
+}
+.pro,#contact  {
+    padding: 20px;
+}
+
 
 
 
