@@ -8,7 +8,7 @@
 ## Technologies Used
  * I used HTML and CSS.
 ## Link to live site on github pages
-* [readme.md]
+* https://vankessa.github.io/portifolio/
 ### License
 * This project is under MID licence.
 Copyright & copy **2018 **Ujeneza Vanessa,We code Moringa School**
