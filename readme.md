@@ -8,7 +8,8 @@ This portifolio will show you all about my background which are my educational b
 ## Technologies Used
 I used HTML and CSS.
 ## Link to live site on github pages
- https://vankessa.github.io/portifolio/
+https://vankessa.github.io/portifolio/
 ### License
-Copyright **2018 **Ujeneza Vanessa,We code Moringa School**
+This project is under MID licence.
+Copyright & copy **2018 **Ujeneza Vanessa,We code Moringa School**
   
